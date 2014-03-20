@@ -1,3 +1,9 @@
+_____________________________________________________________
+This Project is clone of Fedena with Bootstrap included.
+
+Running on Ruby 'ruby-1.9.2-p320' and Rails '2.3.18
+_____________________________________________________________
+
 #Fedena : Open source school management system
 
 Project Fedena is the open source school management system based on Ruby on Rails. It is developed by a team of developers at Foradian Technologies. The project was made open source by Foradian, and is now maintained by the open source community. Fedena is the ideal solution for schools and campuses that want an easy means to manage all campus records.
@@ -22,3 +28,4 @@ Visit  http://projectfedena.org/install for detailed installation instruction.
 #Community Support:
 
 Visit www.projectfedena.org for community support.
+
