@@ -1,0 +1,16 @@
+You can download the open source web from following link:
+http://projectfedena.org/install
+
+Following are our requirements for fedena.
+
+1. The software should have capability to be run on multiple schools.
+2. SMS integration
+3. PDF reports are not Working
+4. Two plugins on projectfedena.org are to be integrated with the software
+5. Bulk data input for the schools of students and Employees.
+6. The work "COURSE" should be changed to "CLASS" across software
+7. Everytime we open a  new school, some of the data should come by default in the login for example, class 1 to 10 should be there by deafult
+8. Ticket for integration of fedena to subdomain
+9. Theme colour Change
+10. Parent should have one login for all the children in fedena
+
