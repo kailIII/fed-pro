@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1086970288">
+    <data-source source="LOCAL" name="Rails fed-pro: development" uuid="6a81aea3-ecd7-46a4-802b-ad7a2db49949">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/fedena_ultimate</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfc9dfc5dfc4dfccdfc3dfd0</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails fed-pro: test" uuid="344a7c71-10ae-4ad7-8e5a-9251fc108893">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/fedena_two_new</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfc9dfc5dfc4dfccdfc3dfd0</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails fed-pro: cucumber" uuid="7ceb3112-ea2a-4f33-a658-f780eb9265d2">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/fedena_two_new</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfc9dfc5dfc4dfccdfc3dfd0</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails fed-pro: production" uuid="b502d386-9691-4f52-b5fa-09e4e885cfd2">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/fedena_ultimate</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfc9dfc5dfc4dfccdfc3dfd0</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
